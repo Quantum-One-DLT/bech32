@@ -4,7 +4,7 @@ synopsis:           Template Haskell extensions to the Bech32 library.
 description:        Template Haskell extensions to the Bech32 library, including
                     quasi-quoters for compile-time checking of Bech32 string
                     literals.
-author:             2021 Robert Mourey Jr for GodXCoin 
+author:             2021 Robert Mourey Jr for The Blockchain Co. 
 maintainer:         operations@bcccoin.io, erikd@mega-nerd.com, jonathan.knowles@bcccoin.io
 copyright:          2020 IOHK
 license:            Apache-2.0

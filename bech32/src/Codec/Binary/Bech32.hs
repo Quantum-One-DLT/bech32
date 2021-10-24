@@ -1,5 +1,5 @@
 -- |
--- Copyright: © 2017 Marko Bencun, 2021 GodXCoin
+-- Copyright: © 2017 Marko Bencun, 2021 The Blockchain Co.
 -- License: Apache-2.0
 --
 -- Implementation of the [Bech32]
