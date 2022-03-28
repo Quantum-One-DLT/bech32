@@ -4,7 +4,7 @@ synopsis:      Implementation of the Bech32 cryptocurrency address format (BIP 0
 description:   Implementation of the Bech32 cryptocurrency address format documented in the
                BIP (Bitcoin Improvement Proposal) 0173.
 author:        2021 Robert Mourey Jr for The Blockchain Co. 
-maintainer:    operations@bcccoin.io, erikd@mega-nerd.com, jonathan.knowles@bcccoin.io
+maintainer:    operations@blockchain-company.io, erikd@mega-nerd.com, jonathan.knowles@blockchain-company.io
 copyright:     2017 Marko Bencun, 2021 The Blockchain Co.
 license:       Apache-2.0
 license-file:  LICENSE
